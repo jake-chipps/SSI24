@@ -1,1 +1,1 @@
-[preview](https://jake-chipps.github.io/plushie/)
+[preview](https://jake-chipps.github.io/SSI24/)
