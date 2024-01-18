@@ -1,6 +1,6 @@
 ---
 title: Sponors
-permalink: /docs/exhibitors/
+permalink: /docs/sponsors/
 ---
 
 ## Sponsors
