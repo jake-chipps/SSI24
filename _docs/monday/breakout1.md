@@ -42,7 +42,7 @@ permalink: /docs/breakout1/
     <td class="tg-kftd">9:15AM - 10:00AM</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">plan1 title<br>speaker<br>place</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/csci127/docs/b1p1/">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 263</td>
     <td class="tg-baqh">plan5 title<br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2">implement1 title<br>speaker<br>place<br></td>
     <td class="tg-c3ow">reimagine1 title<br>speaker<br>place<br></td>
