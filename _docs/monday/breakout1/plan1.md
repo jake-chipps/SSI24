@@ -1,5 +1,5 @@
 ---
-title: Breakout Session 1
+title: B1P1
 permalink: /docs/b1p1/
 ---
 
