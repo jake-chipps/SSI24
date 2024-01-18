@@ -42,37 +42,36 @@ permalink: /docs/breakout1/
     <td class="tg-kftd">9:15AM - 10:00AM</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><href="_docs/monday/breakout1/plan1.md"<br>place</td>
-    <td class="tg-c3ow"><a href="">plan1<a><br>place</td>
-    <td class="tg-baqh">plan5<br>place</td>
-    <td class="tg-c3ow" colspan="2">implement1<br>place<br></td>
-    <td class="tg-c3ow">reimagine1<br>place<br></td>
-    <td class="tg-baqh">reimagine5<br>place</td>
-    <td class="tg-c3ow" colspan="2">exhibition1<br>place<br></td>
+    <td class="tg-c3ow"><a href="_docs/monday/breakout1/plan1.md">Lettuce Cultivation<a><br>Dr. Jake Chipps<br>NAH 236</td>
+    <td class="tg-baqh">plan5 title<br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2">implement1 title<br>speaker<br>place<br></td>
+    <td class="tg-c3ow">reimagine1 title<br>speaker<br>place<br></td>
+    <td class="tg-baqh">reimagine5 title<br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2">exhibition1 title<br>speaker<br>place<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">plan2<br>place<br></td>
-    <td class="tg-c3ow">implement2<br>place<br></td>
-    <td class="tg-baqh">implement5<br>place</td>
-    <td class="tg-c3ow" colspan="2">reimagine2<br>place<br></td>
-    <td class="tg-c3ow">exhibition2<br>place<br></td>
-    <td class="tg-baqh">exhibition5<br>place</td>
+    <td class="tg-c3ow" colspan="2">plan2 titles<br>peaker<br>place<br></td>
+    <td class="tg-c3ow">implement2 title<br>speaker<br>place<br></td>
+    <td class="tg-baqh">implement5 title<br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2">reimagine2 title<br>speaker<br>place<br></td>
+    <td class="tg-c3ow">exhibition2 title<br>speaker<br>place<br></td>
+    <td class="tg-baqh">exhibition5 title<br>speaker<br>place</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">plan3<br>place</td>
-    <td class="tg-baqh">plan6<br>place</td>
-    <td class="tg-c3ow" colspan="2">implement3<br>place<br></td>
-    <td class="tg-c3ow">reimagine3<br>place<br></td>
-    <td class="tg-baqh">reimagine6<br>place</td>
-    <td class="tg-c3ow" colspan="2">exhibition3<br>place<br></td>
+    <td class="tg-c3ow">plan3 title<br>speaker<br>place</td>
+    <td class="tg-baqh">plan6 title<br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2">implement3 title<br>speaker<br>place<br></td>
+    <td class="tg-c3ow">reimagine3 title<br>speaker<br>place<br></td>
+    <td class="tg-baqh">reimagine6 title<br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2">exhibition3 title<br>speaker<br>place<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">plan4<br>place</td>
-    <td class="tg-c3ow">implement4<br>place</td>
-    <td class="tg-baqh">implement6<br>place</td>
-    <td class="tg-c3ow" colspan="2">reimagine4<br>place<br></td>
-    <td class="tg-c3ow">exhibition4<br>place<br></td>
-    <td class="tg-baqh">exhibition6<br>place</td>
+    <td class="tg-c3ow" colspan="2">plan4 title<br>speaker<br>place</td>
+    <td class="tg-c3ow">implement4 title<br>speaker<br>place</td>
+    <td class="tg-baqh">implement6 title<br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2">reimagine4 title<br>speaker<br>place<br></td>
+    <td class="tg-c3ow">exhibition4 title<br>speaker<br>place<br></td>
+    <td class="tg-baqh">exhibition6 title<br>speaker<br>place</td>
   </tr>
 </tbody>
 </table>
