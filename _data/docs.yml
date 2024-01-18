@@ -6,6 +6,9 @@
 - title: Monday, August 5
   docs:
   - mon
+  - breakout1
+  - breakout2
+  - breakout3
 
 - title: Tuesday, August 6
   docs:
@@ -14,6 +17,11 @@
 - title: Wednesday, August 7
   docs:
   - wed
+
+- title: Keynote Speakers
+  docs:
+  - keynote1
+  - keynote2
 
 - title: Exhibitors & Sponsors
   docs:
