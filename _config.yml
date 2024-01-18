@@ -1,0 +1,57 @@
+# Site settings
+title: STEM Summer Institute 2024
+email: jchipps@mt-schools.org
+description: >
+  Schedule for STEM Summer Institute 2024
+lang: en-US
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+baseurl: "/csci127" # the subpath of your site, e.g. /blog/
+url:  https://jake-chipps.github.io/SSI24 # the base hostname & protocol for your site
+git_address: https://github.com/jake-chipps/SSI24
+
+# theme options from https://bootswatch.com/3/
+# comment out this to use default Bootstrap
+bootwatch: cerulean # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+# Plugins (previously gems:)
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+  - vendor
+
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
