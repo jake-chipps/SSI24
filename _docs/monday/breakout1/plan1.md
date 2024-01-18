@@ -18,4 +18,4 @@ Blah blah blah underwater cabbage cultivation can lead to
 serious risks such as wetness.
 
 ## Documents
- - [Lettuce Cultivation Take-Away](../docs/monday/documents/p1b1d1/pdf)
+ - [Lettuce Cultivation Take-Away](../docs/monday/documents/p1b1d1.pdf)
