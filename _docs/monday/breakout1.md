@@ -42,7 +42,8 @@ permalink: /docs/breakout1/
     <td class="tg-kftd">9:15AM - 10:00AM</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">plan1<br>place</td>
+    <td class="tg-c3ow"><href="_docs/monday/breakout1/plan1.md"<br>place</td>
+    <td class="tg-c3ow"><a href="">plan1<a><br>place</td>
     <td class="tg-baqh">plan5<br>place</td>
     <td class="tg-c3ow" colspan="2">implement1<br>place<br></td>
     <td class="tg-c3ow">reimagine1<br>place<br></td>
