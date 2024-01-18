@@ -5,7 +5,7 @@ permalink: /docs/b1p1/
 
 ## Speaker
 
-![jake chipps](../docs/images/b1p1.JPG)
+![jake chipps](../images/b1p1.JPG)
 
 Dr. Jake Chipps is a G. After killing it in a rap battle,
 he decided to test his metal in the Thunderdome. Unfortunately,
@@ -18,4 +18,4 @@ Blah blah blah underwater cabbage cultivation can lead to
 serious risks such as wetness.
 
 ## Documents
- - [Lettuce Cultivation Take-Away](../docs/monday/documents/p1b1d1.pdf)
+ - [Lettuce Cultivation Take-Away](../monday/documents/p1b1d1.pdf)
