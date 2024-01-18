@@ -30,7 +30,7 @@ permalink: /docs/breakout1/
     <td>9:15AM - 10:00AM</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/montanastorytelling/ledger-art/blob/main/_docs/monday/breakout1/plan1.md">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 236</td>
+    <td><a href="https://github.com/jake-chipps/SSI24/blob/main/_docs/monday/breakout1/plan1.md">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 236</td>
     <td>plan5 title<br>speaker<br>place</td>
     <td colspan="2">implement1 title<br>speaker<br>place<br></td>
     <td>reimagine1 title<br>speaker<br>place<br></td>
