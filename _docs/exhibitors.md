@@ -7,14 +7,14 @@ permalink: /docs/exhibitors/
 
 Here are our awesome exhibitors, check them out. Yada yada.
 
-## Exhibitor 1
+### Exhibitor 1
 
 Lorem ipsum dolor
 
-## Exhibitor 2
+### Exhibitor 2
 
 Lorem ipsum dolor
 
-## Exhibitor 3
+### Exhibitor 3
 
 Lorem ipsum dolor

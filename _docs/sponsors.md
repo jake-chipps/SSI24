@@ -7,14 +7,14 @@ permalink: /docs/sponsors/
 
 Here are our awesome exhibitors, check them out. Yada yada.
 
-## Sponsor 1
+### Sponsor 1
 
 Lorem ipsum dolor
 
-## Sponsor 2
+### Sponsor 2
 
 Lorem ipsum dolor
 
-## Sponsor 3
+### Sponsor 3
 
 Lorem ipsum dolor
