@@ -5,6 +5,6 @@ permalink: /docs/about/
 
 ## Author
 
-![SSoM Logo](../images/)
+![SSoM Logo](../images/ssom.jpg)
 
 ### School Services of Montana
