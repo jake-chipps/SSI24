@@ -5,9 +5,9 @@ permalink: /docs/mon/
 
 ## Schedule
 
-|      **Time**     |             **Activity**             |
-|:-----------------:|:------------------------------------:|
-|  8:30AM - 10:00AM | Exhibits & Registration              |
+|          **Time** | **Activity**                         |
+|------------------:|--------------------------------------|
+|  8:30AM - 10:00AM | [Exhibits](../exhibitors/) & Registration              |
 | 10:00AM - 11:00AM | Conference Opening & Keynote Speaker |
 | 11:15AM - 12:45PM | Breakout Session 1                   |
 |  12:45PM - 1:30PM | Catered Network Lunch & Exhibits     |
