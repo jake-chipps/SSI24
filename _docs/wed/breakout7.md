@@ -1,11 +1,11 @@
 ---
-title: Breakout Session 4
-permalink: /docs/breakout4/
+title: Breakout Session 7
+permalink: /docs/breakout7/
 ---
 
 ## Time
 
-10:00AM - 11:30AM
+3:00PM - 4:30PM
 
 ## Sessions
 
@@ -32,14 +32,14 @@ permalink: /docs/breakout4/
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kftd">10:00AM - 10:45AM</td>
-    <td class="tg-kftd">10:45AM - 11:30AM</td>
-    <td class="tg-kftd">10:00AM - 10:45AM</td>
-    <td class="tg-kftd">10:45AM - 11:30AM</td>
-    <td class="tg-kftd">10:00AM - 10:45AM</td>
-    <td class="tg-kftd">10:45AM - 11:30AM</td>
-    <td class="tg-kftd">10:00AM - 10:45AM</td>
-    <td class="tg-kftd">10:45AM - 11:30AM</td>
+    <td class="tg-kftd">3:00PM - 3:45PM</td>
+    <td class="tg-kftd">3:45PM - 4:30PM</td>
+    <td class="tg-kftd">3:00PM - 3:45PM</td>
+    <td class="tg-kftd">3:45PM - 4:30PM</td>
+    <td class="tg-kftd">3:00PM - 3:45PM</td>
+    <td class="tg-kftd">3:45PM - 4:30PM</td>
+    <td class="tg-kftd">3:00PM - 3:45PM</td>
+    <td class="tg-kftd">3:45PM - 4:30PM</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 263</td>

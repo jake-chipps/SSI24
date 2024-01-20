@@ -5,7 +5,7 @@ permalink: /docs/breakout5/
 
 ## Time
 
-1:00PM - 2:30PM
+2:30PM - 4:00PM
 
 ## Sessions
 
@@ -32,14 +32,14 @@ permalink: /docs/breakout5/
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kftd">1:00PM - 1:45PM</td>
-    <td class="tg-kftd">1:45PM - 2:30PM</td>
-    <td class="tg-kftd">1:00PM - 1:45PM</td>
-    <td class="tg-kftd">1:45PM - 2:30PM</td>
-    <td class="tg-kftd">1:00PM - 1:45PM</td>
-    <td class="tg-kftd">1:45PM - 2:30PM</td>
-    <td class="tg-kftd">1:00PM - 1:45PM</td>
-    <td class="tg-kftd">1:45PM - 2:30PM</td>
+    <td class="tg-kftd">2:30PM - 3:15PM</td>
+    <td class="tg-kftd">3:15PM - 4:00PM</td>
+    <td class="tg-kftd">2:30PM - 3:15PM</td>
+    <td class="tg-kftd">3:15PM - 4:00PM</td>
+    <td class="tg-kftd">2:30PM - 3:15PM</td>
+    <td class="tg-kftd">3:15PM - 4:00PM</td>
+    <td class="tg-kftd">2:30PM - 3:15PM</td>
+    <td class="tg-kftd">3:15PM - 4:00PM</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 263</td>
