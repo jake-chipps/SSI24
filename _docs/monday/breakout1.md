@@ -43,14 +43,14 @@ permalink: /docs/breakout1/
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 263</td>
-    <td class="tg-baqh">plan5 title<br>speaker<br>place</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p5/">plan5 title</a><br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2">implement1 title<br>speaker<br>place<br></td>
     <td class="tg-c3ow">reimagine1 title<br>speaker<br>place<br></td>
     <td class="tg-baqh">reimagine5 title<br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2">exhibition1 title<br>speaker<br>place<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">plan2 titles<br>peaker<br>place<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p2/">plan2 title</a><br>peaker<br>place<br></td>
     <td class="tg-c3ow">implement2 title<br>speaker<br>place<br></td>
     <td class="tg-baqh">implement5 title<br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2">reimagine2 title<br>speaker<br>place<br></td>
@@ -58,15 +58,15 @@ permalink: /docs/breakout1/
     <td class="tg-baqh">exhibition5 title<br>speaker<br>place</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">plan3 title<br>speaker<br>place</td>
-    <td class="tg-baqh">plan6 title<br>speaker<br>place</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p3/">plan3 title</a><br>speaker<br>place</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p2/">plan6 title</a><br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2">implement3 title<br>speaker<br>place<br></td>
     <td class="tg-c3ow">reimagine3 title<br>speaker<br>place<br></td>
     <td class="tg-baqh">reimagine6 title<br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2">exhibition3 title<br>speaker<br>place<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">plan4 title<br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p4/">plan4 title</a><br>speaker<br>place</td>
     <td class="tg-c3ow">implement4 title<br>speaker<br>place</td>
     <td class="tg-baqh">implement6 title<br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2">reimagine4 title<br>speaker<br>place<br></td>
