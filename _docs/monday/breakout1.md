@@ -44,34 +44,34 @@ permalink: /docs/breakout1/
   <tr>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 263</td>
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p5/">plan5 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2">implement1 title<br>speaker<br>place<br></td>
-    <td class="tg-c3ow">reimagine1 title<br>speaker<br>place<br></td>
-    <td class="tg-baqh">reimagine5 title<br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2">exhibition1 title<br>speaker<br>place<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1i1/">implement1 title</a><br>speaker<br>place<br></td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1r1/">reimagine1 title</a><br>speaker<br>place<br></td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1r5/">reimagine5 title</a><br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1e1/">exhibition1 title</a><br>speaker<br>place<br></td>
   </tr>
   <tr>
     <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p2/">plan2 title</a><br>peaker<br>place<br></td>
-    <td class="tg-c3ow">implement2 title<br>speaker<br>place<br></td>
-    <td class="tg-baqh">implement5 title<br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2">reimagine2 title<br>speaker<br>place<br></td>
-    <td class="tg-c3ow">exhibition2 title<br>speaker<br>place<br></td>
-    <td class="tg-baqh">exhibition5 title<br>speaker<br>place</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1i2/">implement2 title</a><br>speaker<br>place<br></td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1i5/">implement5 title</a><br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1r2/">reimagine2 title</a><br>speaker<br>place<br></td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1e2/">exhibition2 title</a><br>speaker<br>place<br></td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1e5/">exhibition5 title</a><br>speaker<br>place</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p3/">plan3 title</a><br>speaker<br>place</td>
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p6/">plan6 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2">implement3 title<br>speaker<br>place<br></td>
-    <td class="tg-c3ow">reimagine3 title<br>speaker<br>place<br></td>
-    <td class="tg-baqh">reimagine6 title<br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2">exhibition3 title<br>speaker<br>place<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1i3/">implement3 title</a><br>speaker<br>place<br></td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1r3/">reimagine3 title</a><br>speaker<br>place<br></td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1r6/">reimagine6 title</a><br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1e3/">exhibition3 title</a><br>speaker<br>place<br></td>
   </tr>
   <tr>
     <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p4/">plan4 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow">implement4 title<br>speaker<br>place</td>
-    <td class="tg-baqh">implement6 title<br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2">reimagine4 title<br>speaker<br>place<br></td>
-    <td class="tg-c3ow">exhibition4 title<br>speaker<br>place<br></td>
-    <td class="tg-baqh">exhibition6 title<br>speaker<br>place</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1i4/">implement4 title</a><br>speaker<br>place</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1i6/">implement6 title</a><br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1r4/">reimagine4 title</a><br>speaker<br>place<br></td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1e4/">exhibition4 title</a><br>speaker<br>place<br></td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1e6/">exhibition6 title</a><br>speaker<br>place</td>
   </tr>
 </tbody>
 </table>
