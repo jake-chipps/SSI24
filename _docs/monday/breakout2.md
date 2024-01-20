@@ -45,7 +45,7 @@ permalink: /docs/breakout2/
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 263</td>
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p1/"><a href="https://jake-chipps.github.io/SSI24/docs/b2p5/">plan5 title</a><br></a>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2i1/">implement1 title</a><br>speaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2r1/">reimagine1 title<</a>br>speaker<br>place<br></td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2r1/">reimagine1 title</a><br>speaker<br>place<br></td>
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2r5/">reimagine5 title</a><br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2e1/">exhibition1 title</a><br>speaker<br>place<br></td>
   </tr>
