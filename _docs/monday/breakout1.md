@@ -59,7 +59,7 @@ permalink: /docs/breakout1/
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p3/">plan3 title</a><br>speaker<br>place</td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p2/">plan6 title</a><br>speaker<br>place</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p6/">plan6 title</a><br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2">implement3 title<br>speaker<br>place<br></td>
     <td class="tg-c3ow">reimagine3 title<br>speaker<br>place<br></td>
     <td class="tg-baqh">reimagine6 title<br>speaker<br>place</td>
