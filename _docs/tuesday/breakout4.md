@@ -43,7 +43,7 @@ permalink: /docs/breakout4/
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b4p1/">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 263</td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b4p1/"><a href="https://jake-chipps.github.io/SSI24/docs/b4p5/">plan5 title</a><br>speaker<br>place</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b4p5/"><a href="https://jake-chipps.github.io/SSI24/docs/b4p5/">plan5 title</a><br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b4i1/">implement1 title</a><br>speaker<br>place<br></td>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b4r1/">reimagine1 title</a><br>speaker<br>place<br></td>
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b4r5/">reimagine5 title</a><br>speaker<br>place</td>
@@ -68,7 +68,7 @@ permalink: /docs/breakout4/
   <tr>
     <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b4p4/">plan4 title</a><br>speaker<br>place</td>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b4i4/">implement4 title</a><br>speaker<br>place</td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b4i6/">implement6 title<a href="https://jake-chipps.github.io/SSI24/docs/b4i1/"><br>speaker<br>place</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b4i6/">implement6 title</a><br>speaker<br>place</td>
     <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b4r4/">reimagine4 title</a><br>speaker<br>place<br></td>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b4e4/">exhibition4 title</a><br>speaker<br>place<br></td>
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b4e6/">exhibition6 title</a><br>speaker<br>place</td>
