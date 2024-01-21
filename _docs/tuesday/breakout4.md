@@ -53,7 +53,7 @@ permalink: /docs/breakout4/
     <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b4p2/">plan2 title</a><br>peaker<br>place<br></td>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b4i2/">implement2 title</a><br>speaker<br>place<br></td>
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b4i5/">implement5 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b4r2/">reimagine2 title<br>speaker<br>place<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b4r2/">reimagine2 title</a><br>speaker<br>place<br></td>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b4e2/">exhibition2 title</a><br>speaker<br>place<br></td>
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b4e5/">exhibition5 title</a><br>speaker<br>place</td>
   </tr>
