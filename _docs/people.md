@@ -9,7 +9,7 @@ permalink: /docs/people/
 - Jennifer Brekke
 
 
-## Science and Math Resource Center, Montana State University
+## Science and Math Resource Center, MSU
 - Suzi Taylor
 - Jill Joyce
 - Jeanette Chipps
