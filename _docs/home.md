@@ -15,6 +15,7 @@ redirect_from: /docs/index.html
 |   3:00PM - 3:30PM | Break & [Exhibits](../exhibitors/)                     |
 |   3:30PM - 5:00PM | [Breakout Session 3](../breakout3/)                  |
 |   6:00PM - 8:00PM | [Welcome Reception & Refreshments](../reception/)     |
+|     |     |
 |          **Tuesday, August 6** | **8:30AM - 4:30PM**                         |
 |  8:30AM - 9:30AM | [Industry Panel](../industry/)             |
 | 9:30AM - 10:00AM | Networking & Break |
@@ -24,6 +25,7 @@ redirect_from: /docs/index.html
 |   1:00PM - 2:00PM |  [Keynote Speaker 2](../keynote2/)                  |
 |   2:30PM - 3:00PM | [Exhibits](../exhibitors/) & Break                   |
 |   3:00PM - 4:30PM | [Breakout Session 5](../breakout5/)   |
+|     |     |
 |          **Wednesday, August 7** | **8:30AM - 12:00PM**                         |
 |  8:30AM - 10:00AM | [Breakout Session 6](../breakout6/)             |
 | 10:00AM - 10:10AM | Networking & Break |
