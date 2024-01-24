@@ -1,7 +1,6 @@
 ---
-title: Information
-permalink: /docs/home/
-redirect_from: /docs/index.html
+title: Time & Location
+permalink: /docs/location/
 ---
 
 ## When
