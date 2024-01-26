@@ -14,7 +14,7 @@ Norm Asbjornson Hall
 ![map of MSU](../images/map.png)
 
 ## Parking
-On 7th, behind Norm Asbjornson Hall
+Parking garage on 7th, behind Norm Asbjornson Hall
 
 - 0-60 Minutes: $5.00
 - Each Additional Hour: $2.50 
