@@ -16,6 +16,8 @@ Norm Asbjornson Hall
 ## Parking
 Parking garage on 7th, behind Norm Asbjornson Hall
 
+[Download the Passport Parking App](https://www.montana.edu/parking/Passportparkingapp.html)
+
 - 0\-60 Minutes: $5.00
 - Each Additional Hour: $2.50 
 - Maximum Daily: $12.00
