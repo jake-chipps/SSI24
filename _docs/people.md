@@ -15,7 +15,7 @@ permalink: /docs/people/
 - Jeanette Chipps
 
 
-## Montana After Schools Alliance
+## Montana After School Alliance
 - Heather Jameson
 - Bethany Steinken
 

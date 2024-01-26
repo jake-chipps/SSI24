@@ -12,6 +12,6 @@ permalink: /docs/tues/
 | 10:00AM - 11:30AM | [Breakout Session 4](../breakout4/)                  |
 |  11:30AM - 12:00PM | [Exhibits](../exhibitors/)     |
 |   12:00PM - 1:00PM | Catered Networking Lunch & [Exhibits](../exhibitors/)   |
-|   1:00PM - 2:00PM |  [Keynote Speaker 2](../keynote2/)                  |
+|   1:00PM - 2:00PM |  [Keynote Speaker: Dr. Ann Marie Reinhold](../keynote2/)                  |
 |   2:30PM - 3:00PM | [Exhibits](../exhibitors/) & Break                   |
 |   3:00PM - 4:30PM | [Breakout Session 5](../breakout5/)   |

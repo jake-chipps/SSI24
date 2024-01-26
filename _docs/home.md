@@ -10,7 +10,7 @@ redirect_from: /docs/index.html
 |------------------:|--------------------------------------|
 |          **Monday, August 5** | **8:30AM - 5:00PM**                         |
 |  8:30AM - 10:00AM | [Exhibits](../exhibitors/) & Registration              |
-| 10:00AM - 11:00AM | Conference Opening & [Keynote Speaker](../keynote1/) |
+| 10:00AM - 11:00AM | Conference Opening & [Keynote Speaker: Name](../keynote1/) |
 | 11:15AM - 12:45PM | [Breakout Session 1](../breakout1/)                   |
 |  12:45PM - 1:30PM | Catered Network Lunch & [Exhibits](../exhibitors/)     |
 |   1:30PM - 3:00PM | [Breakout Session 2](../breakout2/)                |
@@ -24,7 +24,7 @@ redirect_from: /docs/index.html
 | 10:00AM - 11:30AM | [Breakout Session 4](../breakout4/)                  |
 |  11:30AM - 12:00PM | [Exhibits](../exhibitors/)     |
 |   12:00PM - 1:00PM | Catered Networking Lunch & [Exhibits](../exhibitors/)   |
-|   1:00PM - 2:00PM |  [Keynote Speaker 2](../keynote2/)                  |
+|   1:00PM - 2:00PM |  [Keynote Speaker: Dr. Ann Marie Reinhold](../keynote2/)                  |
 |   2:30PM - 3:00PM | [Exhibits](../exhibitors/) & Break                   |
 |   3:00PM - 4:30PM | [Breakout Session 5](../breakout5/)   |
 |     |     |
