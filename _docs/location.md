@@ -1,5 +1,5 @@
 ---
-title: Time & Location
+title: Dates & Location
 permalink: /docs/location/
 ---
 
