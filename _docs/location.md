@@ -16,7 +16,7 @@ Norm Asbjornson Hall
 ## Parking
 Parking garage on 7th, behind Norm Asbjornson Hall
 
-- 0-60 Minutes: $5.00
+- 0\-60 Minutes: $5.00
 - Each Additional Hour: $2.50 
 - Maximum Daily: $12.00
 ![map of parking](../images/parking.png)
