@@ -10,7 +10,7 @@ redirect_from: /docs/index.html
 |------------------:|--------------------------------------|
 |          **Monday, August 5** | **8:30AM - 5:00PM**                         |
 |  8:30AM - 10:00AM | [Exhibits](../exhibitors/) & Registration              |
-| 10:00AM - 11:00AM | Conference Opening & [Keynote Speaker: Name](../keynote1/) |
+| 10:00AM - 11:00AM | Conference Opening & [Keynote Speaker: Paul Andersen](../keynote1/) |
 | 11:15AM - 12:45PM | [Breakout Session 1](../breakout1/)                   |
 |  12:45PM - 1:30PM | Catered Network Lunch & [Exhibits](../exhibitors/)     |
 |   1:30PM - 3:00PM | [Breakout Session 2](../breakout2/)                |
