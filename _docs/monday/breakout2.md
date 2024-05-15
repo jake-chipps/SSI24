@@ -5,7 +5,7 @@ permalink: /docs/breakout2/
 
 ## Time
 
-1:30PM - 3:00PM
+1:15PM - 2:45PM
 
 ## Sessions
 
@@ -24,54 +24,27 @@ permalink: /docs/breakout2/
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-34fe" colspan="2"><span style="font-weight:bold">PLAN</span></th>
-    <th class="tg-34fe" colspan="2"><span style="font-weight:bold">IMPLEMENT</span></th>
-    <th class="tg-34fe" colspan="2"><span style="font-weight:bold">REIMAGINE</span></th>
-    <th class="tg-zlqz" colspan="2">EXHIBITORS</th>
+    <th class="tg-34fe" colspan="2"><span style="font-weight:bold"></span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kftd">1:30PM - 2:15PM</td>
-    <td class="tg-kftd">2:15PM - 3:00PM</td>
-    <td class="tg-kftd">1:30PM - 2:15PM</td>
-    <td class="tg-kftd">2:15PM - 3:00PM</td>
-    <td class="tg-kftd">1:30PM - 2:15PM</td>
-    <td class="tg-kftd">2:15PM - 3:00PM</td>
-    <td class="tg-kftd">8:30AM - 9:15AM</td>
-    <td class="tg-kftd">2:15PM - 3:00PM</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2p1/">Using Mini-Lessons to Teach the Crosscutting Concepts and Science and Engineering Practices</a><br>Paul Andersen <br>K-12<br>TBD</td>
+  </tr>
+  <tr>  
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p2/">What do you mean I’m Supposed to Teach Reading in Math and Science?</a><br>Genevieve Thomas<br>6-12<br>TBD</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2p1/">Lettuce Cultivation</a><br>Dr. Jake Chipps<br>NAH 263</td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p1/"><a href="https://jake-chipps.github.io/SSI24/docs/b2p5/">plan5 title</a><br></a>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2i1/">implement1 title</a><br>speaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2r1/">reimagine1 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2r5/">reimagine5 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2e1/">exhibition1 title</a><br>speaker<br>place<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p3/">Eco-Schools US: A New & Sustainable Path Forward</a><br>Naomi Alhadeff<br>6-12<br>TBD<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p2/">plan2 titles</a><br>peaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2i2/">implement2 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2i5/">implement5 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2r2/">reimagine2 title</a><br>speaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2e2/">exhibition2 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2e5/">exhibition5 title</a><br>speaker<br>place</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2p4/">We are the Explorers! Bringing Together NASAs STEM Graphic Novels, Robotics and Moon Exploration</a><br>Wendi Laurance<br>3-8<br>TBD<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2p3/">plan3 title</a><br>speaker<br>place</td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p6/">plan6 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2i3/">implement3 title</a><br>speaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2r3/">reimagine3 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2r6/">reimagine6 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2e3/">exhibition3 title</a><br>speaker<br>place<br></td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p5/">A.I. in Education</a><br>Nick Lux<br>TBD<br>TBD</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p4/">plan4 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2i4/">implement4 title</a><br>speaker<br>place</td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2i6/">implement6 title</a><br>speaker<br>place</td>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2r4/">reimagine4 title</a><br>speaker<br>place<br></td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2e4/">exhibition4 title</a><br>speaker<br>place<br></td>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2e6/">exhibition6 title</a><br>speaker<br>place</td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p6/">Save for NSF Presenter</a><br>TBD<br>TBD<br>TBD<br></td>
   </tr>
 </tbody>
 </table>
