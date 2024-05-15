@@ -5,7 +5,7 @@ permalink: /docs/breakout1/
 
 ## Time
 
-8:30AM - 10:00AM
+11:00AM - 11:45AM
 
 ## Sessions
 
@@ -24,7 +24,7 @@ permalink: /docs/breakout1/
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-34fe" colspan="6"><span style="font-weight:bold">11:00 am - 11:45 am</span></th>
+    <th class="tg-34fe" colspan="7"><span style="font-weight:bold"></span></th>
   </tr>
 </thead>
 <tbody>
