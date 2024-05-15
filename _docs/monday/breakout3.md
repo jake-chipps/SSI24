@@ -31,22 +31,22 @@ permalink: /docs/breakout3/
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Transforming Learning with Sphero Robots</a><br>Jordan Capp<br>K-8<br>Rm 1</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3p1/">Transforming Learning with Sphero Robots</a><br>Jordan Capp<br>K-8<br>Rm 1</td>
   </tr>
   <tr>  
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p2/">Bridging Worlds: Circular Harmony & Hexagonal Wisdom</a><br>Michelle Lindbloom<br>K-8<br>Rm 2</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3p2/">Bridging Worlds: Circular Harmony & Hexagonal Wisdom</a><br>Michelle Lindbloom<br>K-8<br>Rm 2</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p3/">Engaging Students in Montana Data!</a><br>Michelle McCarthy<br>K-12<br>Rm 3<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3p3/">Engaging Students in Montana Data!</a><br>Michelle McCarthy<br>K-12<br>Rm 3<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p4/">Leveling your Field Trips: Integrating Geospatial Skills and Citizen Science</a><br>Jeannie Chipps<br>3-12<br>Rm 4<br></td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3p4/">Leveling your Field Trips: Integrating Geospatial Skills and Citizen Science</a><br>Jeannie Chipps<br>3-12<br>Rm 4<br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p5/">Aquatic Macroinvertebrates: Indicators of Montana Stream Health</a><br>Chris Pavlovich<br>K-12<br>Rm 5</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3p5/">Aquatic Macroinvertebrates: Indicators of Montana Stream Health</a><br>Chris Pavlovich<br>K-12<br>Rm 5</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p6/">Stem-ulating Minds: Hands-On Projects for Ready-to-Use Success!</a><br>Shannon McIerney<br>3-8<br>Rm 6<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3p6/">Stem-ulating Minds: Hands-On Projects for Ready-to-Use Success!</a><br>Shannon McIerney<br>3-8<br>Rm 6<br></td>
   </tr>
 </tbody>
 </table>
