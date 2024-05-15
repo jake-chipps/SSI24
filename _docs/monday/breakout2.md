@@ -29,25 +29,22 @@ permalink: /docs/breakout2/
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2p1/">Using Mini-Lessons to Teach the Crosscutting Concepts and Science and Engineering Practices</a><br>Paul Andersen <br>K-12<br>Inspiration Hall</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3p1/">Using Mini-Lessons to Teach the Crosscutting Concepts and Science and Engineering Practices</a><br>Paul Andersen <br>K-12<br>Inspiration Hall</td>
   </tr>
   <tr>  
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p2/">What do you mean I’m Supposed to Teach Reading in Math and Science?</a><br>Genevieve Thomas<br>6-12<br>Rm 1</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3p2/">What do you mean I’m Supposed to Teach Reading in Math and Science?</a><br>Genevieve Thomas<br>6-12<br>Rm 1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p3/">Bee Inspired Innovation: The Buzz on Biomimicry in STEM</a><br>Michelle Lindbloom<br>K-8<br>Rm 2<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3p3/">Bee Inspired Innovation: The Buzz on Biomimicry in STEM</a><br>Michelle Lindbloom<br>K-8<br>Rm 2<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2p4/">STEM Family Night</a><br>Heather Jameson<br>K-8<br>Rm 3<br></td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b3p4/">STEM Family Night</a><br>Heather Jameson<br>K-8<br>Rm 3<br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p5/">Integrating Indigenous Wisdom into K-12 Science Education</a><br>Jennifer Stadum<br>K-12<br>Rm 4</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b3p5/">Integrating Indigenous Wisdom into K-12 Science Education</a><br>Jennifer Stadum<br>K-12<br>Rm 4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p6/">Unleashing 3D Printing’s Superpower: Design Thinking & Spatial Reasonin</a><br>Steve Allison-Bunnel<br>3-12<br>Rm 5<br></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p7/">Rm 6</a><br>EXHIBITOR<br>TBD<br>TBD<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b3p6/">Unleashing 3D Printing’s Superpower: Design Thinking & Spatial Reasonin</a><br>Steve Allison-Bunnel<br>3-12<br>Rm 5<br></td>
   </tr>
 </tbody>
 </table>

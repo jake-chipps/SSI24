@@ -5,7 +5,7 @@ permalink: /docs/reception/
 
 ## Time
 
-3:30PM - 5:00PM
+6:00PM - 8:00PM
 
 ## Where
 
