@@ -56,7 +56,7 @@ permalink: /docs/breakout1/
     <tr>
     <td class="tg-c3ow">Rm. TBD</td>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p6/">Save for NSF Presenter</a><br>Gr. TBD</td>
-    <td class="tg-c3ow">Nick Lux</td>
+    <td class="tg-c3ow">TBD</td>
   </tr>
 </tbody>
 </table>
