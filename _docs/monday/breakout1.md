@@ -24,13 +24,10 @@ permalink: /docs/breakout1/
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-34fe" colspan="2"><span style="font-weight:bold"></span></th>
+    <th class="tg-34fe" colspan="6"><span style="font-weight:bold">11:00 am - 11:45 am</span></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-kftd">11:00AM - 11:45AM</td>
-  </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Quantum in Montana: What Do You Need to Know and Why Should You Care?</a><br>Suzi Taylor<br>TBD</td>
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p2/">NASA Lift Off-A Teacher PD Opportunity at Johnson Space Center</a><br>Anna Gomez-Morris<br>TBD</td>
