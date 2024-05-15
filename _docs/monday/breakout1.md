@@ -29,7 +29,9 @@ permalink: /docs/breakout1/
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Quantum in Montana: What Do You Need to Know and Why Should You Care?</a><br>Suzi Taylor<br>6-12<br>Rm 1</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Rm 1</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Quantum in Montana: What Do You Need to Know and Why Should You Care?</a><br>Suzi Taylor<br>Gr. 6-12<br>Rm 1</td>
+    <td class="tg-c3ow">Suzi Taylor</td>
   </tr>
   <tr>  
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p2/">NASA Lift Off-A Teacher PD Opportunity at Johnson Space Center</a><br>Anna Gomez-Morris<br>6-12<br>Rm 2</td>
