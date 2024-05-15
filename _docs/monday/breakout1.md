@@ -29,22 +29,22 @@ permalink: /docs/breakout1/
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Quantum in Montana: What Do You Need to Know and Why Should You Care?</a><br>Suzi Taylor<br>TBD</td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p1/">Quantum in Montana: What Do You Need to Know and Why Should You Care?</a><br>Suzi Taylor<br>6-12<br>TBD</td>
   </tr>
   <tr>  
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p2/">NASA Lift Off-A Teacher PD Opportunity at Johnson Space Center</a><br>Anna Gomez-Morris<br>TBD</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p2/">NASA Lift Off-A Teacher PD Opportunity at Johnson Space Center</a><br>Anna Gomez-Morris<br>6-12<br>TBD</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p3/">Eco-Schools US: A New & Sustainable Path Forward</a><br>Naomi Alhadeff<br>TBD<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p3/">Eco-Schools US: A New & Sustainable Path Forward</a><br>Naomi Alhadeff<br>6-12<br>TBD<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p4/">We are the Explorers! Bringing Together NASAs STEM Graphic Novels, Robotics and Moon Exploration</a><br>Wendi Laurance<br>TBD<br></td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p4/">We are the Explorers! Bringing Together NASAs STEM Graphic Novels, Robotics and Moon Exploration</a><br>Wendi Laurance<br>3-8<br>TBD<br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p5/">A.I. in Education</a><br>Nick Lux<br>TBD</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b1p5/">A.I. in Education</a><br>Nick Lux<br>TBD<br>TBD</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p6/">Save for NSF Presenter</a><br>TBD<br>TBD<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b1p6/">Save for NSF Presenter</a><br>TBD<br>TBD<br>TBD<br></td>
   </tr>
 </tbody>
 </table>
