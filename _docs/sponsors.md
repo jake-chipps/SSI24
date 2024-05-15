@@ -1,5 +1,5 @@
 ---
-title: Sponors
+title: Sponsors
 permalink: /docs/sponsors/
 ---
 

@@ -35,16 +35,19 @@ permalink: /docs/breakout2/
     <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p2/">What do you mean I’m Supposed to Teach Reading in Math and Science?</a><br>Genevieve Thomas<br>6-12<br>TBD</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p3/">Eco-Schools US: A New & Sustainable Path Forward</a><br>Naomi Alhadeff<br>6-12<br>TBD<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p3/">Bee Inspired Innovation: The Buzz on Biomimicry in STEM</a><br>Michelle Lindbloom<br>K-8<br>TBD<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2p4/">We are the Explorers! Bringing Together NASAs STEM Graphic Novels, Robotics and Moon Exploration</a><br>Wendi Laurance<br>3-8<br>TBD<br></td>
+    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b2p4/">STEM Family Night</a><br>Heather Jameson<br>K-8<br>TBD<br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p5/">A.I. in Education</a><br>Nick Lux<br>TBD<br>TBD</td>
+    <td class="tg-baqh"><a href="https://jake-chipps.github.io/SSI24/docs/b2p5/">Integrating Indigenous Wisdom into K-12 Science Education</a><br>Jennifer Stadum<br>K-12<br>TBD</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p6/">Save for NSF Presenter</a><br>TBD<br>TBD<br>TBD<br></td>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p6/">Unleashing 3D Printing’s Superpower: Design Thinking & Spatial Reasonin</a><br>Steve Allison-Bunnel<br>3-12<br>TBD<br></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="2"><a href="https://jake-chipps.github.io/SSI24/docs/b2p7/">TBD</a><br>EXHIBITOR<br>TBD<br>TBD<br></td>
   </tr>
 </tbody>
 </table>
