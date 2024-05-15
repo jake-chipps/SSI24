@@ -9,26 +9,6 @@ permalink: /docs/breakout1/
 
 ## Sessions
 
-<tbody>
-  <tr>
-    <td class="tg-c3ow">Rm. 4</td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p4/">We are the Explorers! Bringing Together NASAs STEM Graphic Novels, Robotics and Moon Exploration</a><br>Gr. 3-8</td>
-    <td class="tg-c3ow">Wendi Laurance</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Rm. 5</td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p5/">A.I. in Education</a><br>Gr. TBD</td>
-    <td class="tg-c3ow">Nick Lux</td>
-  </tr>
-    <tr>
-    <td class="tg-c3ow">Rm. TBD</td>
-    <td class="tg-c3ow"><a href="https://jake-chipps.github.io/SSI24/docs/b1p6/">Save for NSF Presenter</a><br>Gr. TBD</td>
-    <td class="tg-c3ow">TBD</td>
-  </tr>
-</tbody>
-</table>
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
