@@ -51,7 +51,7 @@ permalink: /docs/breakout4/
   <tr>
     <td class="tg-c3ow">Rm. 5</td>
     <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b4p5/">National History Day and STEM</a><br>Gr. 6-12</td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-c3ow">Melissa Hibbard</td>
   </tr>
    <tr>
     <td class="tg-c3ow">Rm. 6</td>
