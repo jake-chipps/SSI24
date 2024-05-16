@@ -5,7 +5,7 @@ permalink: /docs/breakout4/
 
 ## Time
 
-10:00AM - 11:30AM
+10:00AM - 11:45AM
 
 ## Sessions
 
@@ -30,28 +30,33 @@ permalink: /docs/breakout4/
 <tbody>
   <tr>
     <td class="tg-c3ow">Rm. 1</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky">Hands on STEAM Activities from the Montana Makers Exhibition<br>Gr. K-12</td>
+    <td class="tg-c3ow">Nick Wethington</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 2</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky">The Fusion of Science and Language through Smithsonian Science for the Classroom<br>Gr. K-5</td>
+    <td class="tg-c3ow">Wendy Pierce</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 3</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky">Avalanches in the Classroom<br>Gr. 6-12</td>
+    <td class="tg-c3ow">Shannon Regan</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 4</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky">FIRST Robotics: Revolutionizing STEM Education<br>Gr. K-12</td>
+    <td class="tg-c3ow">Jordan Capp</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 5</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
+    <td class="tg-0pky">National History Day and STEM<br>Gr. 6-12</td>
     <td class="tg-c3ow">Name</td>
+  </tr>
+   <tr>
+    <td class="tg-c3ow">Rm. 6</td>
+    <td class="tg-0pky">TBD<br>Gr. TBD</td>
+    <td class="tg-c3ow">EXHIBITOR TBD</td>
   </tr>
 </tbody>
 </table>
