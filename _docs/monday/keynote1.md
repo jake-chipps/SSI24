@@ -10,5 +10,5 @@ Paul Andersen is an educational consultant and [YouTube creator](https://www.boz
 ## Reimagining STEM: Evolving Instruction in an Ever-Changing World
 Join Paul Andersen as he delves into the topic of reimagining STEM education. Drawing from his experience as both a Montana teacher and an international science consultant he will share strategies that have worked and a vision for the future. 
 
-## Location
+### Location
 Inspiration Hall

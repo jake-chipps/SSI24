@@ -5,7 +5,7 @@ permalink: /docs/breakout9/
 
 ## Time
 
-3:00PM - 4:30PM
+10:30AM - 11:15AM
 
 ## Sessions
 
