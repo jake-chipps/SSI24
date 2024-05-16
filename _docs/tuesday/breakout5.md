@@ -30,28 +30,28 @@ permalink: /docs/breakout5/
 <tbody>
   <tr>
     <td class="tg-c3ow">Rm. 1</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p1/">Hands on STEAM Activities from the Montana Makers Exhibition</a><br>Gr. K-12</td>
-    <td class="tg-c3ow">Nick Wethington</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p1/">Econo-Quest: Exploring Global Economics & Careers in Montana</a><br>Gr. 6-12</td>
+    <td class="tg-c3ow">Nikki Geiszler</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 2</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p2/">The Fusion of Science and Language through Smithsonian Science for the Classroom</a><br>Gr. K-5</td>
-    <td class="tg-c3ow">Wendy Pierce</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p2/">Productive Discussions to Support Students' Sense-making in STEM</a><br>Gr. 6-8</td>
+    <td class="tg-c3ow">Amy Kowalszyk</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 3</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p3/">Avalanches in the Classroom</a><br>Gr. 6-12</td>
-    <td class="tg-c3ow">Shannon Regan</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p3/">Discover Museum of the Rockies</a><br>Gr. TBD</td>
+    <td class="tg-c3ow">Shannon Werbeach</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 4</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p4/">FIRST Robotics: Revolutionizing STEM Education</a><br>Gr. K-12</td>
-    <td class="tg-c3ow">Jordan Capp</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p4/">Data Science 4 Everyone?</a><br>Gr. TBD</td>
+    <td class="tg-c3ow">Lee?</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 5</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p5/">National History Day and STEM</a><br>Gr. 6-12</td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b5p5/">FOSS/School Specialty?</a><br>Gr. TBD</td>
+    <td class="tg-c3ow">TBD</td>
   </tr>
    <tr>
     <td class="tg-c3ow">Rm. 6</td>
