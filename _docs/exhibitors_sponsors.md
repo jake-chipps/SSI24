@@ -1,5 +1,5 @@
 ---
-title: Exhibitors
+title: Exhibitors & Sponsors
 permalink: /docs/exhibitors_sponsors/
 ---
 
