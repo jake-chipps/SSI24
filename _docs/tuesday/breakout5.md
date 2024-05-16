@@ -5,7 +5,7 @@ permalink: /docs/breakout5/
 
 ## Time
 
-2:30PM - 4:00PM
+11:00AM - 11:45AM
 
 ## Sessions
 
@@ -30,7 +30,7 @@ permalink: /docs/breakout5/
 <tbody>
   <tr>
     <td class="tg-c3ow">Rm. 1</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
+    <td class="tg-0pky">Econo-Quest: Exploring Global Economics & Careers in Montana<br>Gr. </td>
     <td class="tg-c3ow">Name</td>
   </tr>
   <tr>
