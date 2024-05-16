@@ -30,32 +30,32 @@ permalink: /docs/breakout4/
 <tbody>
   <tr>
     <td class="tg-c3ow">Rm. 1</td>
-    <td class="tg-0pky">Hands on STEAM Activities from the Montana Makers Exhibition<br>Gr. K-12</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b4p1/">Hands on STEAM Activities from the Montana Makers Exhibition</a><br>Gr. K-12</td>
     <td class="tg-c3ow">Nick Wethington</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 2</td>
-    <td class="tg-0pky">The Fusion of Science and Language through Smithsonian Science for the Classroom<br>Gr. K-5</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b4p2/">The Fusion of Science and Language through Smithsonian Science for the Classroom</a><br>Gr. K-5</td>
     <td class="tg-c3ow">Wendy Pierce</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 3</td>
-    <td class="tg-0pky">Avalanches in the Classroom<br>Gr. 6-12</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b4p3/">Avalanches in the Classroom</a><br>Gr. 6-12</td>
     <td class="tg-c3ow">Shannon Regan</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 4</td>
-    <td class="tg-0pky">FIRST Robotics: Revolutionizing STEM Education<br>Gr. K-12</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b4p4/">FIRST Robotics: Revolutionizing STEM Education</a><br>Gr. K-12</td>
     <td class="tg-c3ow">Jordan Capp</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 5</td>
-    <td class="tg-0pky">National History Day and STEM<br>Gr. 6-12</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b4p5/">National History Day and STEM</a><br>Gr. 6-12</td>
     <td class="tg-c3ow">Name</td>
   </tr>
    <tr>
     <td class="tg-c3ow">Rm. 6</td>
-    <td class="tg-0pky">TBD<br>Gr. TBD</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b4p6/">TBD</a><br>Gr. TBD</td>
     <td class="tg-c3ow">EXHIBITOR TBD</td>
   </tr>
 </tbody>
