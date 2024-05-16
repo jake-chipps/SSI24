@@ -38,7 +38,9 @@ Lorem ipsum dolor
 
 ### MSU Norm Asbornson College of Engineering
 
-Lorem ipsum dolor
+![MSU Norm Asbornson College of Engineering](../_docs/images/norm.png)
+
+[Information]( https://coe.montana.edu/outreach/index.html) about outreach at MSU Norm Asbornson College of Engineering
 
 ### Museum of the Rockies
 
