@@ -30,28 +30,23 @@ permalink: /docs/breakout7/
 <tbody>
   <tr>
     <td class="tg-c3ow">Rm. 1</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b7p1/">New STEM Place-Based Resources for Teachers</a><br>Gr. 3-12</td>
+    <td class="tg-c3ow">Jamie Cornish</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 2</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b7p2/">Research Experience for Teachers in Engineering (RET)</a><br>Gr. K-12</td>
+    <td class="tg-c3ow">Suzi Taylor</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 3</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b7p3/">P3 Phun Phone Physics part 1</a><br>Gr. 5-12</td>
+    <td class="tg-c3ow">David McDonald</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 4</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
-    <td class="tg-c3ow">Name</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Rm. 5</td>
-    <td class="tg-0pky">Title<br>Gr. </td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b7p4/">Creative Coding with PBS KIDS:Scratch Jr.</a><br>Gr. K-2</td>
+    <td class="tg-c3ow">Nikki Vradenburg</td>
   </tr>
 </tbody>
 </table>
