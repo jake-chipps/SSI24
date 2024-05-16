@@ -5,7 +5,7 @@ permalink: /docs/breakout6/
 
 ## Time
 
-8:30AM - 10:00AM
+2:30PM - 4:00PM
 
 ## Sessions
 
@@ -30,33 +30,33 @@ permalink: /docs/breakout6/
 <tbody>
   <tr>
     <td class="tg-c3ow">Rm. 1</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p1/">Hands on STEAM Activities from the Montana Makers Exhibition</a><br>Gr. K-12</td>
-    <td class="tg-c3ow">Nick Wethington</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Rm. 2</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p2/">The Fusion of Science and Language through Smithsonian Science for the Classroom</a><br>Gr. K-5</td>
-    <td class="tg-c3ow">Wendy Pierce</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Rm. 3</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p3/">Avalanches in the Classroom</a><br>Gr. 6-12</td>
-    <td class="tg-c3ow">Shannon Regan</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Rm. 4</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p4/">FIRST Robotics: Revolutionizing STEM Education</a><br>Gr. K-12</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p1/">Student Lead Science Lessons</a><br>Gr. K-5</td>
     <td class="tg-c3ow">Jordan Capp</td>
   </tr>
   <tr>
+    <td class="tg-c3ow">Rm. 2</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p2/">Using Nature Journaling as a Mindfulness Tool</a><br>Gr. 3-8</td>
+    <td class="tg-c3ow">Richelle Riley</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Rm. 3</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p3/">MT PBS Presents: Six Approaches to Dynamic Media Integration in the Elementary Classroom</a><br>Gr. K-5</td>
+    <td class="tg-c3ow">Nikki Vradenburg</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Rm. 4</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p4/">Exploring Light’s Invisible Property: Using Low-Cost Demonstrations to Understand Polarization in Nature and Technology</a><br>Gr. 6-12</td>
+    <td class="tg-c3ow">Erica Venkatesulu</td>
+  </tr>
+  <tr>
     <td class="tg-c3ow">Rm. 5</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p5/">National History Day and STEM</a><br>Gr. 6-12</td>
-    <td class="tg-c3ow">Name</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p5/">The Flatline of Flathead Lake: Of Eagles and Bull Trout</a><br>Gr. 6-12</td>
+    <td class="tg-c3ow">Linda Rost</td>
   </tr>
    <tr>
     <td class="tg-c3ow">Rm. 6</td>
-    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p6/">TBD</a><br>Gr. TBD</td>
-    <td class="tg-c3ow">EXHIBITOR TBD</td>
+    <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b6p6/">NASA and the Next Generation: STEM is Elementary</a><br>Gr. K-5</td>
+    <td class="tg-c3ow">Wendi Laurence</td>
   </tr>
 </tbody>
 </table>
