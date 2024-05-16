@@ -13,7 +13,7 @@ Lorem ipsum dolor
 
 ### Carolina Biological Supply
 
-![Carolina Biological Supply](../_docs/images/carolina.jpg)
+![Carolina Biological Supply](../images/carolina.jpg)
 
 From its beginnings in 1927, [Carolina](http://www.carolina.com) has grown to become the leading supplier of science teaching materials in the world. Headquartered in Burlington, NC, Carolina serves customers worldwide, including teachers, students, and professionals in science and health-related fields. The company is still privately owned by descendants of the founder, geology and biology professor Dr. Thomas E. Powell Jr.
  
@@ -38,7 +38,7 @@ Lorem ipsum dolor
 
 ### MSU Norm Asbornson College of Engineering
 
-![MSU Norm Asbornson College of Engineering](../_docs/images/norm.png)
+![MSU Norm Asbornson College of Engineering](../images/norm.png)
 
 [Information]( https://coe.montana.edu/outreach/index.html) about outreach at MSU Norm Asbornson College of Engineering
 
