@@ -9,6 +9,8 @@ Here are our awesome exhibitors and sponsors. Go by the exhibitor booths and tal
 
 Lorem ipsum dolor
 
+***
+
 ### Carolina Biological Supply
 
 ![Carolina Biological Supply](../images/carolina.jpg)
@@ -17,22 +19,31 @@ From its beginnings in 1927, [Carolina](http://www.carolina.com) has grown to be
  
 [Carolina K-8 Curricular Programs](https://www.carolina.com/k-8-curriculum-programs)
 
+***
 
 ### Friends of the Gallatin National Forest Avalanche Center
 
 Lorem ipsum dolor
 
+***
+
 ### Montana NSF EPSCoR
 
 Lorem ipsum dolor
+
+***
 
 ### Montana Robotics Alliance
 
 Lorem ipsum dolor
 
+***
+
 ### MSU Applied Quantum Core
 
 Lorem ipsum dolor
+
+***
 
 ### MSU Norm Asbornson College of Engineering
 
@@ -40,6 +51,10 @@ Lorem ipsum dolor
 
 [Information]( https://coe.montana.edu/outreach/index.html) about outreach at MSU Norm Asbornson College of Engineering
 
+***
+
 ### Museum of the Rockies
 
 Lorem ipsum dolor
+
+***
