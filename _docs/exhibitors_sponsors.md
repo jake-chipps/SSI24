@@ -15,7 +15,7 @@ Lorem ipsum dolor
 
 ![Carolina Biological Supply](../_docs/images/carolina.jpg)
 
-From its beginnings in 1927, [Carolina](www.carolina.com) has grown to become the leading supplier of science teaching materials in the world. Headquartered in Burlington, NC, Carolina serves customers worldwide, including teachers, students, and professionals in science and health-related fields. The company is still privately owned by descendants of the founder, geology and biology professor Dr. Thomas E. Powell Jr.
+From its beginnings in 1927, [Carolina](http://www.carolina.com) has grown to become the leading supplier of science teaching materials in the world. Headquartered in Burlington, NC, Carolina serves customers worldwide, including teachers, students, and professionals in science and health-related fields. The company is still privately owned by descendants of the founder, geology and biology professor Dr. Thomas E. Powell Jr.
  
 [Carolina K-8 Curricular Programs](https://www.carolina.com/k-8-curriculum-programs)
 
