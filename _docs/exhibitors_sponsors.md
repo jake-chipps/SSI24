@@ -3,9 +3,7 @@ title: Exhibitors & Sponsors
 permalink: /docs/exhibitors_sponsors/
 ---
 
-## Exhibitors
-
-Here are our awesome exhibitors, check them out. Yada yada.
+Here are our awesome exhibitors and sponsors. Go by the exhibitor booths and talk to them about how they can support you.
 
 ### Active Learning
 
