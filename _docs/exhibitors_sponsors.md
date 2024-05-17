@@ -5,6 +5,8 @@ permalink: /docs/exhibitors_sponsors/
 
 Here are our awesome exhibitors and sponsors. Go by the exhibitor booths and talk to them about how they can support you and your students.
 
+***
+
 ### Active Learning
 
 Reserved for Exhibitor
