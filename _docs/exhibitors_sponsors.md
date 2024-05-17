@@ -65,12 +65,6 @@ Reserved for Exhibitor
 
 ![Museum of the Rockies](../images/mor.jpeg)
 
-The 6th Annual STEM Summer Institute is a one-of-a-kind, Montana-made showcase for STEM integration across all grades and subject areas. You’ll enjoy exemplary K-12 STEM instruction and resources, inspiring national speakers, and the best of Bozeman and MSU! The interactive agenda is designed to spark curiosity about STEM practices and projects, featuring strategies and resources for math, science, and STEM across all subject areas to engage students in relevant and meaningful contexts for learning.
-
-You won’t want to miss the evening welcome reception on Monday, August 5th - a time to relax, network, and enjoy traditional Native games and foods!
-
-Session Evaluation Form - Your feedback is important to us! Please use this form to submit a session evaluation for each session you attend. We will use this as a record of attendance and provide you with renewal unit(s) per session that you attend (emailed after the event).
-
-Overall Conference Evaluation - Please share your thoughts to help us make improvements for next year’s conference (logistics, topics, formats, etc.). Indicate in the form if you’re interested in joining an advisory committee to inform our plans. 
+Museum of the Rockies (MOR) is a college-level division of Montana State University, a Smithsonian Affiliate, a repository for federal fossils, and an independent 501(c)3 nonprofit institution. It is recognized as one of the world's finest research and history museums and is renowned for displaying an extensive collection of dinosaur fossils, including a full-scale T. rex skeleton! The museum’s exhibits, collections, programs, and research create a community resource that brings the world to Montana and shares the Northern Rockies with the world. Museum of the Rockies is dedicated to engaging all learners, from babies to adults who are young at heart, in explorations of science, history, and art through an array of educational programs. From our founding in 1957, we have shared the museum’s collections with the public, engaging visitors through special events, programs, and outreach materials. Thanks to the Opening Doors for Montana Schoolchildren fund, we are able to offer free admission for all Montana schools. As a community resource and regional museum, MOR’s education team encourages curiosity for people of all ages.
 
 ***
