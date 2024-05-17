@@ -7,7 +7,7 @@ Here are our awesome exhibitors and sponsors. Go by the exhibitor booths and tal
 
 ### Active Learning
 
-Lorem ipsum dolor
+Reserved for Exhibitor
 
 ***
 
@@ -23,25 +23,24 @@ From its beginnings in 1927, [Carolina](http://www.carolina.com) has grown to be
 
 ### Friends of the Gallatin National Forest Avalanche Center
 
-Lorem ipsum dolor
-
+Reserved for Exhibitor
 ***
 
 ### Montana NSF EPSCoR
 
-Lorem ipsum dolor
+Reserved for Exhibitor
 
 ***
 
 ### Montana Robotics Alliance
 
-Lorem ipsum dolor
+Reserved for Exhibitor
 
 ***
 
 ### MSU Applied Quantum Core
 
-Lorem ipsum dolor
+Reserved for Exhibitor
 
 ***
 
@@ -55,6 +54,6 @@ Lorem ipsum dolor
 
 ### Museum of the Rockies
 
-Lorem ipsum dolor
+Reserved for Exhibitor
 
 ***
