@@ -3,7 +3,9 @@ title: Exhibitors & Sponsors
 permalink: /docs/exhibitors_sponsors/
 ---
 
-Here are our awesome exhibitors and sponsors. Go by the exhibitor booths and talk to them about how they can support you and your students.
+Thank you to the exhibitors and sponsors for joining us and support STEM!  Make sure you visit the exhibitor tables to learn about their amazing resources, research, or services enhancing STEM education and integration. 
+
+I’ll alert you as we get other exhibitor info.   
 
 ***
 
@@ -61,6 +63,12 @@ Reserved for Exhibitor
 
 ### Museum of the Rockies
 
-Reserved for Exhibitor
+The 6th Annual STEM Summer Institute is a one-of-a-kind, Montana-made showcase for STEM integration across all grades and subject areas. You’ll enjoy exemplary K-12 STEM instruction and resources, inspiring national speakers, and the best of Bozeman and MSU! The interactive agenda is designed to spark curiosity about STEM practices and projects, featuring strategies and resources for math, science, and STEM across all subject areas to engage students in relevant and meaningful contexts for learning.
+
+You won’t want to miss the evening welcome reception on Monday, August 5th - a time to relax, network, and enjoy traditional Native games and foods!
+
+Session Evaluation Form - Your feedback is important to us! Please use this form to submit a session evaluation for each session you attend. We will use this as a record of attendance and provide you with renewal unit(s) per session that you attend (emailed after the event).
+
+Overall Conference Evaluation - Please share your thoughts to help us make improvements for next year’s conference (logistics, topics, formats, etc.). Indicate in the form if you’re interested in joining an advisory committee to inform our plans. 
 
 ***
