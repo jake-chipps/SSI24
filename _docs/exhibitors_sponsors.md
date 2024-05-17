@@ -5,8 +5,6 @@ permalink: /docs/exhibitors_sponsors/
 
 Thank you to the exhibitors and sponsors for joining us and support STEM!  Make sure you visit the exhibitor tables to learn about their amazing resources, research, or services enhancing STEM education and integration. 
 
-I’ll alert you as we get other exhibitor info.   
-
 ***
 
 ### Activate Learning
