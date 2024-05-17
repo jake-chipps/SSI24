@@ -63,6 +63,8 @@ Reserved for Exhibitor
 
 ### Museum of the Rockies
 
+![Museum of the Rockies](../images/mor.jpeg)
+
 The 6th Annual STEM Summer Institute is a one-of-a-kind, Montana-made showcase for STEM integration across all grades and subject areas. You’ll enjoy exemplary K-12 STEM instruction and resources, inspiring national speakers, and the best of Bozeman and MSU! The interactive agenda is designed to spark curiosity about STEM practices and projects, featuring strategies and resources for math, science, and STEM across all subject areas to engage students in relevant and meaningful contexts for learning.
 
 You won’t want to miss the evening welcome reception on Monday, August 5th - a time to relax, network, and enjoy traditional Native games and foods!
