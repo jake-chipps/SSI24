@@ -5,7 +5,7 @@ permalink: /docs/surveys/
 
 ## Pre-Survey
 
-## Sessio Survey
+## Session Survey
 
 ## Post-Survey
 
