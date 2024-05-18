@@ -9,7 +9,16 @@ Thank you to the exhibitors and sponsors for joining us and support STEM!  Make 
 
 ### Activate Learning
 
-Reserved for Exhibitor
+![Activate Learning](../images/activate.jpg)
+
+We are a team of educators, educational leaders, administrators, sales consultants and professional facilitators who provide ongoing support to teachers and districts while ensuring our curriculum is relatable, adaptable and successful.
+
+We offer high-quality K-12 programs in print and an interactive digital platform that anticipate the unique stressors of science education so that teachers can engage all students more easily.
+
+We provide quality-tested science kits and personalized implementation support to help teachers in the classroom, saving time and building confidence at every turn.
+
+We work with educators who are implementing our [Activate Learning](https://activatelearning.com/) curriculum and we also facilitate the shift to a 3-Dimensional curriculum, no matter what programs your district is utilizing. Every professional learning experience is curated to the needs of your district.
+
 
 ***
 
@@ -23,9 +32,31 @@ From its beginnings in 1927, [Carolina](http://www.carolina.com) has grown to be
 
 ***
 
+### Data Science 4 Everyone
+
+![Data Science 4 Everyone](../images/data_science.png)
+
+[Data Science 4 Everyone](https://www.datascience4everyone.org/) is a coalition advancing data science education so that every K-12 student is equipped with the data literacy skills needed to succeed in our modern world. Equitable access to data science education is an opportunity to open doors to higher education, high-paying careers, and an engaged community.
+
+***
+
+### FOSS
+
+Reserved for Exhibitor
+
+***
+
 ### Friends of the Gallatin National Forest Avalanche Center
 
 Reserved for Exhibitor
+
+***
+
+### Kaplan Early Learning Company
+
+![Kaplan Early Learning Company](../images/kaplan.jpg)
+
+For more than 50 years, [Kaplan Early Learning Company](https://www.kaplanco.com) has been a resource for early childhood educational materials, training and services; including classroom materials, furniture, outdoor play, technology, curriculum, assessments, evaluations and professional development.  Our products and services transform lives through play.
 
 ***
 
@@ -40,6 +71,8 @@ NSF EPSCoR was established in 1978, and in 1980 Montana was one of five initial 
 ***
 
 ### Montana Robotics Alliance
+
+![Montana Robotics Alliance](../images/mtra.png)
 
 Reserved for Exhibitor
 
