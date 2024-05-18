@@ -4,7 +4,6 @@ permalink: /docs/people/
 ---
 
 ## School Services of Montana
-- Jake Chipps
 - Melissa Tovaas
 - Jennifer Brekke
 
