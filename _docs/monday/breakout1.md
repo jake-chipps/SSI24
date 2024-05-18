@@ -46,7 +46,7 @@ permalink: /docs/breakout1/
   <tr>
     <td class="tg-c3ow">Rm. 4</td>
     <td class="tg-0pky"><a href="https://jake-chipps.github.io/SSI24/docs/b1p4/">We are the Explorers! Bringing Together NASAs STEM Graphic Novels, Robotics and Moon Exploration</a><br>Gr. 3-8</td>
-    <td class="tg-c3ow">Wendi Laurance</td>
+    <td class="tg-c3ow">Wendi Laurence</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Rm. 5</td>
