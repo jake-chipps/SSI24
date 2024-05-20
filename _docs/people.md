@@ -1,11 +1,11 @@
 ---
-title: Conference Personnel
+title: Conference Planning Team
 permalink: /docs/people/
 ---
 
 ## School Services of Montana
 - Melissa Tovaas
-- Jennifer Brekke
+- Judy Boyle
 
 
 ## Science and Math Resource Center, MSU
@@ -16,12 +16,13 @@ permalink: /docs/people/
 
 ## Montana After School Alliance
 - Heather Jameson
-- Bethany Steinken
+- Bethany Wieferich
 
-## Advisory Board
+## Advisory Committee
 - Meredith Hecker
 - Judy Boyle
 - Michelle McCarthy
+- Alex Ide
 
 ## Site Developer
 - Jake Chipps
