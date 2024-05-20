@@ -22,3 +22,6 @@ permalink: /docs/people/
 - Meredith Hecker
 - Judy Boyle
 - Michelle McCarthy
+
+## Site Developer
+- Jake Chipps
