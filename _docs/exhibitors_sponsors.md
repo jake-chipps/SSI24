@@ -7,6 +7,36 @@ Thank you to the exhibitors and sponsors for joining us and support STEM!  Make 
 
 ***
 
+## Gold Sponsors
+
+Coming soon!
+
+***
+***
+
+## Silver Sponsors
+
+### Carolina Biological Supply
+
+![Carolina Biological Supply](../images/carolina.jpg)
+
+From its beginnings in 1927, [Carolina](http://www.carolina.com) has grown to become the leading supplier of science teaching materials in the world. Headquartered in Burlington, NC, Carolina serves customers worldwide, including teachers, students, and professionals in science and health-related fields. The company is still privately owned by descendants of the founder, geology and biology professor Dr. Thomas E. Powell Jr.
+ 
+[Carolina K-8 Curricular Programs](https://www.carolina.com/k-8-curriculum-programs)
+
+***
+
+### Kaplan Early Learning Company
+
+![Kaplan Early Learning Company](../images/kaplan.jpg)
+
+For more than 50 years, [Kaplan Early Learning Company](https://www.kaplanco.com) has been a resource for early childhood educational materials, training and services; including classroom materials, furniture, outdoor play, technology, curriculum, assessments, evaluations and professional development.  Our products and services transform lives through play.
+
+***
+***
+
+## Bronze Sponsors
+
 ### Activate Learning
 
 ![Activate Learning](../images/activate.jpg)
@@ -18,17 +48,6 @@ We offer high-quality K-12 programs in print and an interactive digital platform
 We provide quality-tested science kits and personalized implementation support to help teachers in the classroom, saving time and building confidence at every turn.
 
 We work with educators who are implementing our [Activate Learning](https://activatelearning.com/) curriculum and we also facilitate the shift to a 3-Dimensional curriculum, no matter what programs your district is utilizing. Every professional learning experience is curated to the needs of your district.
-
-
-***
-
-### Carolina Biological Supply
-
-![Carolina Biological Supply](../images/carolina.jpg)
-
-From its beginnings in 1927, [Carolina](http://www.carolina.com) has grown to become the leading supplier of science teaching materials in the world. Headquartered in Burlington, NC, Carolina serves customers worldwide, including teachers, students, and professionals in science and health-related fields. The company is still privately owned by descendants of the founder, geology and biology professor Dr. Thomas E. Powell Jr.
- 
-[Carolina K-8 Curricular Programs](https://www.carolina.com/k-8-curriculum-programs)
 
 ***
 
@@ -49,14 +68,6 @@ Reserved for Exhibitor
 ### Friends of the Gallatin National Forest Avalanche Center
 
 Reserved for Exhibitor
-
-***
-
-### Kaplan Early Learning Company
-
-![Kaplan Early Learning Company](../images/kaplan.jpg)
-
-For more than 50 years, [Kaplan Early Learning Company](https://www.kaplanco.com) has been a resource for early childhood educational materials, training and services; including classroom materials, furniture, outdoor play, technology, curriculum, assessments, evaluations and professional development.  Our products and services transform lives through play.
 
 ***
 
