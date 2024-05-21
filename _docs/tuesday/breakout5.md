@@ -6,6 +6,7 @@ permalink: /docs/breakout5/
 ## Time
 
 11:00AM - 11:45AM
+Tuesday, August 6, 2024
 
 ## Sessions
 
